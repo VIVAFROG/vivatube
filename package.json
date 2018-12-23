@@ -1,0 +1,11 @@
+{
+  "name": "vivatube",
+  "version": "1.0.0",
+  "description": "Cloning Youtube with Vanila and NodeJS",
+  "main": "index.js",
+  "author": "Yoonsik Jung",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
