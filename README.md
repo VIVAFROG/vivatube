@@ -8,12 +8,14 @@ V : How does the data look
 C : Function that looks for the data
 
 ## Pages:
-	- [ ] Home
-	- [ ] Join
-	- [ ] Login
-	- [x] Join
-	- [x] Login
-	- [x] Search
-	- [ ] User Detail
-	- [ ] Edit Profile
 
+- [ ] Home
+- [x] Join
+- [x] Login
+- [x] Search
+- [ ] User Detail
+- [x] Edit Profile
+- [x] Change Password
+- [x] Upload
+- [ ] Video Detail
+- [x] Edit Video
